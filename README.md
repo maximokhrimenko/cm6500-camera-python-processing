@@ -25,7 +25,7 @@ The MSc thesis focused on multispectral airborne LiDAR applications, including r
 
 ```text
 batch_colour_balance_jpegs.py
-exploratory_decode_cm6500_packed12_raw.py
+decode_packed12_bayer_raw_to_tiff.py
 ```
 
 ## Script 1: Batch colour balancing of JPEG imagery
